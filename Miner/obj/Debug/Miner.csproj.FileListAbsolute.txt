@@ -1,0 +1,11 @@
+D:\Dev\SzoftTech\Miner\Miner\bin\Debug\Miner.exe.config
+D:\Dev\SzoftTech\Miner\Miner\bin\Debug\Miner.exe
+D:\Dev\SzoftTech\Miner\Miner\bin\Debug\Miner.pdb
+D:\Dev\SzoftTech\Miner\Miner\bin\Debug\Minesweeper.dll
+D:\Dev\SzoftTech\Miner\Miner\bin\Debug\Minesweeper.pdb
+D:\Dev\SzoftTech\Miner\Miner\obj\Debug\Miner.csprojAssemblyReference.cache
+D:\Dev\SzoftTech\Miner\Miner\obj\Debug\Miner.Properties.Resources.resources
+D:\Dev\SzoftTech\Miner\Miner\obj\Debug\Miner.csproj.GenerateResource.cache
+D:\Dev\SzoftTech\Miner\Miner\obj\Debug\Miner.csproj.CopyComplete
+D:\Dev\SzoftTech\Miner\Miner\obj\Debug\Miner.exe
+D:\Dev\SzoftTech\Miner\Miner\obj\Debug\Miner.pdb

@@ -1,0 +1,5 @@
+D:\Dev\SzoftTech\Miner\Minesweeper\bin\Debug\Minesweeper.dll
+D:\Dev\SzoftTech\Miner\Minesweeper\bin\Debug\Minesweeper.pdb
+D:\Dev\SzoftTech\Miner\Minesweeper\obj\Debug\Minesweeper.csprojAssemblyReference.cache
+D:\Dev\SzoftTech\Miner\Minesweeper\obj\Debug\Minesweeper.dll
+D:\Dev\SzoftTech\Miner\Minesweeper\obj\Debug\Minesweeper.pdb
