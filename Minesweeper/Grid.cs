@@ -12,6 +12,7 @@ namespace Minesweeper
     public class Grid
     {
         private int cellSize = 25;
+        private Action<int, int> clickCallback;
         private Button[,] cells;
         public Grid(int width, int height, Control container)
         {
@@ -38,7 +39,7 @@ namespace Minesweeper
 
         public void OnCellClick(Action<int, int> clickCallback)
         {
-            clickCallback;
+           this.clickCallback = clickCallback;
         }
 
         public void UpdateCell(int x, int y, int value)
@@ -50,7 +51,7 @@ namespace Minesweeper
         private void CellClick(object sender, EventArgs e)
         {
             int x = (sender as Button).Left / cellSize;
-            int y = (sender as Button).Right / cellSize;
+            int y = (sender as Button).Top / cellSize;
 
             clickCallback(x, y);
         }
